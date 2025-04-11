@@ -8,13 +8,13 @@
             "name": "Block Amazon",
             "priority": 1, 
             "action": "bin/block.sh",
-            "exitmenu": true
+            "exitmenu": false
 		},
 		{
             "name": "Unblock Amazon",
             "priority": 2, 
             "action": "bin/unblock.sh",
-            "exitmenu": true
+            "exitmenu": false
 		}
 		]
 	}
