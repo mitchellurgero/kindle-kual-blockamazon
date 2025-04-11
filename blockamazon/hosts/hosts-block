@@ -1,0 +1,12 @@
+127.0.0.1	localhost.localdomain localhost kindle
+192.168.15.200 	usbnet-host-gw
+
+0.0.0.0 amazon.com
+0.0.0.0 www.amazon.com
+0.0.0.0 kindle-digital-delivery.amazon.com
+0.0.0.0 a4k.amazon.com
+0.0.0.0 device-metrics-us-ud.amazon.com
+0.0.0.0 device-messaging-na.amazon.com
+0.0.0.0 s3.amazonaws.com
+0.0.0.0 dogvgb9ujhybx.cloudfront.net
+0.0.0.0 todo-ta-g7g.amazon.com
